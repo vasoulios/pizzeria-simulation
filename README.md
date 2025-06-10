@@ -1,1 +1,1 @@
-# pizzeria-simulation
+# Pizzeria Simulation
